@@ -3,7 +3,7 @@
     <section id="features">
       <div class="container">
         <header>
-          <h2>Gentlemen, behold! This is <strong>Strongly Typed</strong>!</h2>
+          <h2><strong>Offroad</strong> Travel Trailers!</h2>
         </header>
         <div class="row aln-center">
           <div class="col-4 col-6-medium col-12-small">
