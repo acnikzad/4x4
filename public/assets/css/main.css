@@ -2702,9 +2702,17 @@ input, select, textarea {
 					border-left: 0;
 				}
 
-      .points i {
-        padding: 1%;
-        text-align: center;
+
+	}
+
+      .points {
+        /*text-align: center;*/
+        padding: 10%;
+        border: solid 2px;
+        border-color: #f9f9f9;
+        margin: 5%;
+        /*padding-right: 20%;*/
+        /*padding: 1%;*/
       }
 
       .points p {
@@ -2718,15 +2726,17 @@ input, select, textarea {
       }
 
       .icon-big {
-        font-size: 350%;
-        display: block;
-        color: #e67e22;
-        margin-bottom: 10px;
         text-align: center;
-        line-height: 120%;
-        vertical-align: middle;
-        margin-top: -5px;
-        margin-right: 10px;
+        font-size: 250%;
+        display: block;
+        color: #ED786A;
+    /*    padding-left: 25%;
+        padding-right: 25%*/
+        /*padding-right: 50%;*/
+        /*padding-top: 20%;*/
+        /*margin-left: 50%;*/
+        /*line-height: 300%;*/
+        /*vertical-align: middle;*/
+        /*margin-top: -5px;*/
+        /*margin-right: 10px;*/
       }
-
-	}
