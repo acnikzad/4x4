@@ -21,7 +21,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/XTC1.jpg" alt="" /></a>
+              <a href="#" class="image featured"><img src="images/XTR1.jpg" alt="" /></a>
               <header>
                 <h3>XTR-XL</h3>
               </header>
@@ -33,7 +33,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/IMG_9945.jpg" alt="" /></a>
+              <a href="#" class="image featured"><img src="images/XTR1.jpg" alt="" /></a>
               <header>
                 <h3>XTR-Toy Hauler</h3>
               </header>
@@ -47,7 +47,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/XTR8.jpg" alt="" /></a>
+              <a href="#" class="image featured"><img src="images/XTR1.jpg" alt="" /></a>
               <header>
                 <h3>XTC</h3>
               </header>
@@ -59,7 +59,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/XTC3.JPG" alt="" /></a>
+              <a href="#" class="image featured"><img src="images/XTR1.jpg" alt="" /></a>
               <header>
                 <h3>Command Camp</h3>
               </header>
@@ -71,7 +71,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/IMG_9938.JPG" alt="" /></a>
+              <a href="#" class="image featured"><img src="images/XTR1.jpg" alt="" /></a>
               <header>
                 <h3>XSport</h3>
               </header>
@@ -94,19 +94,22 @@
       </div>
     </section>
     <section id="points">
-      <div class="container row">
-        <div class="col-4 col-6-medium col-12-small">
+      <div class="row aln-center">
+        <div class="col-3 icons">
+          <a class="icon solid fa-lock" href="index.html"></a>
           <p>1/3</p>
         </div>
-        <div class="col-4 col-6-medium col-12-small">
+        <div class="col-3 icons">
+          <a class="icon fa fa-calendar" href="index.html"></a>
           <p>2/3</p>
         </div>
-        <div class="col-4 col-6-medium col-12-small">
+        <div class="col-3 icons">
+          <a class="icon solid fa fa-money" href="index.html"></a>
           <p>3/3</p>
         </div>
       </div>
     </section>
-    
+
   </div>
 </template>
 

@@ -10,10 +10,10 @@
           <ul>
             <li><a class="icon solid fa-home" href="index.html"><span>Home</span></a></li>
             <li>
-              <a href="#" class="icon fa-chart-bar"><span>Contact</span></a>
+              <a href="#" class="icon fa-envelope"><span>Contact</span></a>
             </li>
-            <li><a class="icon solid fa-cog" href="left-sidebar.html"><span>Request A Quote</span></a></li>
-            <li><a class="icon solid fa-retweet" href="right-sidebar.html"><span>About</span></a></li>
+            <li><a class="icon solid fa-quote-right" href="left-sidebar.html"><span>Request A Quote</span></a></li>
+            <li><a class="icon solid fa-hashtag" href="right-sidebar.html"><span>About</span></a></li>
             <!-- <li><a class="icon solid fa-sitemap" href="no-sidebar.html"><span>Rent A Trailer</span></a></li> -->
           </ul>
         </nav>
