@@ -5,7 +5,7 @@
       <div class="container">
 <!-- Logo -->
         <h1 id="logo"><a href="index.html">4x4 Teardrop Trailers</a></h1>
-        <p>In partnership with Vintage Trailer Works</p>
+        <p>In partnership with Vintage Trailer Works Inc.</p>
         <nav id="nav">
           <ul>
             <li><a class="icon solid fa-home" href="index.html"><span>Home</span></a></li>

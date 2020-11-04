@@ -2702,4 +2702,31 @@ input, select, textarea {
 					border-left: 0;
 				}
 
+      .points i {
+        padding: 1%;
+        text-align: center;
+      }
+
+      .points p {
+        font-size: 90%;
+        line-height: 145%;
+      }
+
+      .points img {
+        width:100%;
+        margin-bottom: 50px;
+      }
+
+      .icon-big {
+        font-size: 350%;
+        display: block;
+        color: #e67e22;
+        margin-bottom: 10px;
+        text-align: center;
+        line-height: 120%;
+        vertical-align: middle;
+        margin-top: -5px;
+        margin-right: 10px;
+      }
+
 	}

@@ -95,17 +95,28 @@
     </section>
     <section id="points">
       <div class="row aln-center">
-        <div class="col-3 icons">
-          <a class="icon solid fa-lock" href="index.html"></a>
-          <p>1/3</p>
+        <div class="col span-1-of-4 icons">
+          <div class="row points">
+            <i class="icon solid fa-lock"></i>
+          </div>
+          <div class="row">
+            <h3>Built tough</h3>
+            <p>3 year warranty with every trailer</p>
+          </div>
         </div>
-        <div class="col-3 icons">
-          <a class="icon fa fa-calendar" href="index.html"></a>
-          <p>2/3</p>
+        <div class="col span-1-of-4 icons">
+          <div class="row points">
+            <i class="icon fa fa-calendar"></i>
+            <h3>Quick build times</h3>
+            <p>Get your fully custom trailer in 3 - 5 months</p>
+          </div>
         </div>
-        <div class="col-3 icons">
-          <a class="icon solid fa fa-money" href="index.html"></a>
-          <p>3/3</p>
+        <div class="col span-1-of-4">
+          <div class="row points">
+            <i class="icon-big solid fa fa-credit-card"></i>
+            <h3>Affordable</h3>
+            <p>Get out exploring without breaking the bank</p>
+          </div>
         </div>
       </div>
     </section>
