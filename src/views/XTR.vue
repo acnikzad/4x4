@@ -82,10 +82,20 @@
 
               <!-- Sidebar -->
                 <div id="sidebar" class="col-4 col-12-medium">
+                  <div class="dropdown">
+                    <button class="dropbtn">Select Options</button>
+                    <div class="dropdown-content">
+                      <a href="" id="storage">Storage Options</a>
+                      <a href="" class="window" id="window">Window Awning Options</a>
+                      <a href="" class="axle" id="axle">Axle and Tire Options</a>
+                      <a href="" class="galley" id="galley">Galley Options</a>
+                      <a href="" class="power" id="power">Power and Electronics Options</a>
+                    </div>
+                  </div>
 
                   <!-- Excerpts -->
                     <section>
-                      <ul class="divided">
+                      <ul class="divided storage">
                         <li>
 
                           <!-- Excerpt -->
@@ -179,6 +189,8 @@
                                 </tbody>
                               </table>
                             </article>
+                            <div class="d-inline p-2 bg-primary text-white">d-inline</div>
+<div class="d-inline p-2 bg-dark text-white">d-inline</div>
 
                         </li>
                       </ul>
@@ -309,14 +321,17 @@
         </section>
 
     </div>
-
-    <!-- Scripts -->
-<!--       <script src="assets/js/jquery.min.js"></script>
-      <script src="assets/js/jquery.dropotron.min.js"></script>
-      <script src="assets/js/browser.min.js"></script>
-      <script src="assets/js/breakpoints.min.js"></script>
-      <script src="assets/js/util.js"></script>
-      <script src="assets/js/main.js"></script>
- -->
   </body>
 </template>
+
+      <!-- Scripts -->
+<script type="text/javascript">
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
