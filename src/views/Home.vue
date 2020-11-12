@@ -9,7 +9,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/XTR1.jpg" alt="" /></a>
+              <a href="/xtr" class="image featured"><img src="images/XTR1.jpg" alt="" /></a>
               <header>
                 <h3>XTR</h3>
               </header>
