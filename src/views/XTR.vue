@@ -85,8 +85,8 @@
                   <div class="dropdown">
                     <button class="dropbtn">Select Options</button>
                     <div class="dropdown-content">
-                      <a href="" id="storage">Storage Options</a>
-                      <a href="" class="window" id="window">Window Awning Options</a>
+                      <a onclick="myStorage()">Storage Options</a>
+                      <a onclick="myWindow()">Window Awning Options</a>
                       <a href="" class="axle" id="axle">Axle and Tire Options</a>
                       <a href="" class="galley" id="galley">Galley Options</a>
                       <a href="" class="power" id="power">Power and Electronics Options</a>
@@ -95,11 +95,10 @@
 
                   <!-- Excerpts -->
                     <section>
-                      <ul class="divided storage">
+                      <ul class="divided">
                         <li>
-
                           <!-- Excerpt -->
-                            <article class="box excerpt">
+                            <article class="box excerpt options" id="storage">
                               <header>
                                 <span class="date">Storage Options</span>
                               </header>
@@ -169,7 +168,7 @@
                             <br>
                             <br>
                             <!-- Excerpt -->
-                            <article class="box excerpt">
+                            <article class="box excerpt" id="window">
                               <header>
                                 <span class="date">Window Awning Options</span>
                               </header>
@@ -324,14 +323,58 @@
   </body>
 </template>
 
-      <!-- Scripts -->
-<script type="text/javascript">
+
+<script>
+
 function myFunction() {
-  var x = document.getElementById("myDIV");
+  console.log("calling storage...");
+  var x = document.getElementById("storage");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
   }
 }
+
 </script>
+
+
+
+
+<!-- <script type="text/javascript">
+  export default {
+    data: function() {
+
+    },
+
+    methods: {
+      myFunction: function() {
+        console.log("calling storage...");
+        var x = document.getElementById("storage");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+    }
+  }
+
+  //     myFunction: function() {
+  // console.log("calling storage...");
+  // var x = document.getElementById("storage");
+  // if (x.style.display === "none") {
+  //   x.style.display = "block";
+  // } else {
+  //   x.style.display = "none";
+  // },
+
+  //       function myWindow() {
+  // console.log("calling window...");
+  // var x = document.getElementById("window");
+  // if (x.style.display === "none") {
+  //   x.style.display = "block";
+  // } else {
+  //   x.style.display = "none";
+  // }
+};
+</script> -->
