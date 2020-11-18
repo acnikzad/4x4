@@ -79,8 +79,7 @@
                       mollis tortor congue. Sed quis mauris sit amet magna accumsan.</p>
                     </article>
                 </div>
-
-              <!-- Sidebar -->
+<!-- Sidebar -->
                 <div id="sidebar" class="col-4 col-12-medium">
                   <div class="dropdown">
                     <button class="dropbtn">Select Options</button>
@@ -93,108 +92,103 @@
                     </div>
                   </div>
 
-                  <!-- Excerpts -->
-                    <section>
-                      <ul class="divided">
-                        <li>
+                <!-- Excerpts -->
+                  <section>
+                    <ul class="divided">
+                      <li>
+                        <!-- Excerpt -->
+                          <article class="box excerpt options" id="storage">
+                            <header>
+                              <span class="date">Storage Options</span>
+                            </header>
+                            <table class="table table-sm">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">A-Frame Tongue Box (2.75 cu ft)</th>
+                                  <td>$315</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Large A-Frame tongue box (5.2 cu ft)</th>
+                                  <td>$450</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">48" or 60" Aluminum Storage Box</th>
+                                  <td>$630</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Roof Rack with 400 lb capacity</th>
+                                  <td>$210</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Heavy Duty Roof Rack</th>
+                                  <td>$420</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Slide Under Storage Boxes</th>
+                                  <td>$160</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">5 Gallon Jerry Can and Mount</th>
+                                  <td>$105</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Front Wall Sliding Storage Cabinet (only for 5x10)</th>
+                                  <td>$210</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Bunk for Sleeping </th>
+                                  <td>$350</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
+                          <br>
+                          <br>
                           <!-- Excerpt -->
-                            <article class="box excerpt options" id="storage">
-                              <header>
-                                <span class="date">Storage Options</span>
-                              </header>
-                              <table class="table table-sm">
-                                <thead>
-                                  <tr>
-                                    <th scope="col">Option</th>
-                                    <th scope="col">Price</th>
-                                  </tr>
-                                </thead>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">A-Frame Tongue Box (2.75 cu ft)</th>
-                                    <td>$315</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">Large A-Frame tongue box (5.2 cu ft)</th>
-                                    <td>$450</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">48" or 60" Aluminum Storage Box</th>
-                                    <td>$630</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">Roof Rack with 400 lb capacity</th>
-                                    <td>$210</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">Heavy Duty Roof Rack</th>
-                                    <td>$420</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">Slide Under Storage Boxes</th>
-                                    <td>$160</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">5 Gallon Jerry Can and Mount</th>
-                                    <td>$105</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">Front Wall Sliding Storage Cabinet (only for 5x10)</th>
-                                    <td>$210</td>
-                                  </tr>
-                                </tbody>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">Bunk for Sleeping </th>
-                                    <td>$350</td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </article>
-                            <br>
-                            <br>
-                            <!-- Excerpt -->
-                            <article class="box excerpt" id="window">
-                              <header>
-                                <span class="date">Window Awning Options</span>
-                              </header>
-                              <table class="table">
-                                <thead>
-                                  <tr>
-                                    <th scope="col">Option</th>
-                                    <th scope="col">Price</th>
-                                  </tr>
-                                </thead>
-                                <tbody>
-                                  <tr>
-                                    <th scope="row">Roof</th>
-                                    <td>300</td>
-                                  </tr>
-
-                                </tbody>
-                              </table>
-                            </article>
-                            <div class="d-inline p-2 bg-primary text-white">d-inline</div>
-<div class="d-inline p-2 bg-dark text-white">d-inline</div>
-
+                          <article class="box excerpt options" id="window">
+                            <header>
+                              <span class="date">Window Awning Options</span>
+                            </header>
+                            <table class="table">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Roof</th>
+                                  <td>300</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
                         </li>
                       </ul>
                     </section>
-
                   <!-- Highlights -->
                     <section>
                       <ul class="divided">
