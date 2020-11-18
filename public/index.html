@@ -33,11 +33,15 @@
   
 function myStorage() {
   console.log("calling storage...");
-  var x = document.getElementById("storage");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
+  var x = document.getElementById("");
+  if (x === "storage") {
+    if (storage.style.display === "none") {
+      storage.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  } else if (x === "window") {
+
   }
 }
 

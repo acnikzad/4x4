@@ -92,11 +92,11 @@
                     </div>
                   </div>
 
-                <!-- Excerpts -->
+<!-- Options -->
                   <section>
                     <ul class="divided">
                       <li>
-                        <!-- Excerpt -->
+<!-- Storage -->
                           <article class="box excerpt options" id="storage">
                             <header>
                               <span class="date">Storage Options</span>
@@ -166,7 +166,7 @@
                           </article>
                           <br>
                           <br>
-                          <!-- Excerpt -->
+<!-- Windows -->
                           <article class="box excerpt options" id="window">
                             <header>
                               <span class="date">Window Awning Options</span>
@@ -180,8 +180,210 @@
                               </thead>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Roof</th>
-                                  <td>300</td>
+                                  <th scope="row">ARB Awning (requires roof rack option)</th>
+                                  <td>$630</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Yeskum Awning</th>
+                                  <td>$370</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Foxwing Awning (XL ONLY)</th>
+                                  <td>$1,050</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">StarGazer Window</th>
+                                  <td>$375</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">18"x 15” Side Window</th>
+                                  <td>$265</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Window Shades for Door Windows (pair)</th>
+                                  <td>$190</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Window Shade for StarGazer Window</th>
+                                  <td>$85</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Window Shade for 18” Window</th>
+                                  <td>$45</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
+<!-- Axle and Tires -->
+                          <article class="box excerpt" id="tires">
+                            <header>
+                              <span class="date">Axle & Tire Options</span>
+                            </header>
+                            <table class="table">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Electric Brakes</th>
+                                  <td>$370</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Timbren 3500# Idler</th>
+                                  <td>$840</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Timbren w/ Electric Brakes</th>
+                                  <td>$1,200</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">30x9.5x15 SpareTire & Rim with Mount</th>
+                                  <td>$475</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">33" tire upgrade (3) 285/70/r17</th>
+                                  <td>$600</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">35" tire upgrade (3)</th>
+                                  <td>$750</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">32" tire upgrade (3)</th>
+                                  <td>$200</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">H.D. Spare Tire Mount (mount only)</th>
+                                  <td>$160</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">(2) additional stabilizer jacks in front of trailer</th>
+                                  <td>$100</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Rear receiver recovery hitch upgrade </th>
+                                  <td>$0</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Matching Hub Pattern to Tow Vehicle</th>
+                                  <td>$210</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
+<!-- Galley Options -->
+                          <article class="box excerpt" id="galley">
+                            <header>
+                              <span class="date">Galley Options</span>
+                            </header>
+                            <table class="table">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Electric Brakes</th>
+                                  <td>$370</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Timbren 3500# Idler</th>
+                                  <td>$840</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Timbren w/ Electric Brakes</th>
+                                  <td>$1,200</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">30x9.5x15 SpareTire & Rim with Mount</th>
+                                  <td>$475</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">33" tire upgrade (3) 285/70/r17</th>
+                                  <td>$600</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">35" tire upgrade (3)</th>
+                                  <td>$750</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">32" tire upgrade (3)</th>
+                                  <td>$200</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">H.D. Spare Tire Mount (mount only)</th>
+                                  <td>$160</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">(2) additional stabilizer jacks in front of trailer</th>
+                                  <td>$100</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Rear receiver recovery hitch upgrade </th>
+                                  <td>$0</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Matching Hub Pattern to Tow Vehicle</th>
+                                  <td>$210</td>
                                 </tr>
                               </tbody>
                             </table>
