@@ -15,73 +15,19 @@
                         <h2><strong>XTR</strong></h2>
                       </header>
                       <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
-                      <h3>Right is also not left</h3>
-                      <p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
-                      ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
-                      sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
-                      in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-                      magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-                      mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.
-                      Curabitur leo nibh, rutrum eu malesuada in tristique</p>
-                      <p>Erat lorem ipsum veroeros consequat magna tempus lorem ipsum consequat
-                      Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit ligula
-                      vel quam viverra sit amet mollis tortor congue. Sed quis mauris sit amet
-                      magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada in,
-                      tristique at erat. Curabitur leo nibh, rutrum eu malesuada in, tristique
-                      at erat lorem ipsum dolor sit amet lorem ipsum sed consequat magna
-                      tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros consequat
-                      magna tempus</p>
-                      <p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
-                      ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
-                      sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
-                      in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-                      magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-                      mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.
-                      Curabitur leo nibh, rutrum eu malesuada in tristique</p>
-                      <h3>Accumsan lorem ipsum veroeros</h3>
-                      <p>Consequat Phasellus laoreet massa id in, tristique at erat lorem
-                      ipsum dolor sit amet lorem ipsum sed consequat magna tempus veroeros
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-                      mollis tortor congue. Sed quis mauris sit amet magna.</p>
-                      <p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
-                      ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
-                      sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
-                      in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-                      magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-                      mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.
-                      Curabitur leo nibh, rutrum eu malesuada in tristique</p>
-                      <h3>Ligula suspcipit fusce veroeros</h3>
-                      <p>Nullam dolore etiam sed massa id in, tristique at erat lorem
-                      ipsum dolor sit amet lorem ipsum sed consequat magna tempus veroeros
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-                      mollis tortor congue. Sed quis mauris sit amet magna.</p>
-                      <p>Sed massa id justo mattis pharetra. Fusce suscipit
-                      ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
-                      sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
-                      in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-                      magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
-                      consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-                      justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-                      mollis tortor congue. Sed quis mauris sit amet magna accumsan.</p>
+                      <h3>View Options</h3>
+                      <ul class="">
+                        <li class="" onmouseover="document.getElementById('storage').style.display = 'block';" onmouseleave="document.getElementById('storage').style.display = 'none';">Storage Options</li>
+                        <li class="" onmouseover="document.getElementById('window').style.display = 'block';" onmouseleave="document.getElementById('window').style.display = 'none';">Window Awning Options</li>
+                        <li class="" onmouseover="document.getElementById('axle').style.display = 'block';" onmouseleave="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</li>
+                        <li class="" onmouseover="document.getElementById('galley').style.display = 'block';" onmouseleave="document.getElementById('galley').style.display = 'none';">Galley Options</li>
+                        <li class="" onmouseover="document.getElementById('electronics').style.display = 'block';" onmouseleave="document.getElementById('electronics').style.display = 'none';">Power and Electronics Options</li>
+                      </ul>
                     </article>
                 </div>
 <!-- Sidebar -->
                 <div id="sidebar" class="col-4 col-12-medium">
-                  <div class="dropdown">
+                  <!-- <div class="dropdown">
                     <button class="dropbtn">Select Options</button>
                     <div class="dropdown-content">
                       <a onclick="myFunction('storage')">Storage Options</a>
@@ -90,14 +36,14 @@
                       <a onclick="myFunction('galley')">Galley Options</a>
                       <a onclick="myFunction('electronics')">Power and Electronics Options</a>
                     </div>
-                  </div>
+                  </div> -->
 
 <!-- Options -->
                   <section>
                     <ul class="divided">
                       <li>
 <!-- Storage -->
-                          <article class="box excerpt options" id="storage">
+                          <article class="box excerpt storagehide" id="storage">
                             <header>
                               <span class="date">Storage Options</span>
                             </header>
@@ -164,8 +110,6 @@
                               </tbody>
                             </table>
                           </article>
-                          <br>
-                          <br>
 <!-- Windows -->
                           <article class="box excerpt options" id="window">
                             <header>
@@ -561,50 +505,7 @@
                         </li>
                       </ul>
                     </section>
-                  <!-- Highlights -->
-                    <section>
-                      <ul class="divided">
-                        <li>
-
-                          <!-- Highlight -->
-                            <article class="box highlight">
-                              <header>
-                                <h3><a href="#">Something of note</a></h3>
-                              </header>
-                              <a href="#" class="image left"><img src="images/pic06.jpg" alt="" /></a>
-                              <p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-                              viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-                              convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-                              facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
-                              <ul class="actions">
-                                <li><a href="#" class="button icon solid fa-file">Learn More</a></li>
-                              </ul>
-                            </article>
-
-                        </li>
-                        <li>
-
-                          <!-- Highlight -->
-                            <article class="box highlight">
-                              <header>
-                                <h3><a href="#">Something of less note</a></h3>
-                              </header>
-                              <a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
-                              <p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-                              viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-                              convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-                              facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
-                              <ul class="actions">
-                                <li><a href="#" class="button icon solid fa-file">Learn More</a></li>
-                              </ul>
-                            </article>
-
-                        </li>
-                      </ul>
-                    </section>
-
                 </div>
-
             </div>
           </div>
         </section>

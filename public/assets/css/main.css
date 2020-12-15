@@ -2788,3 +2788,16 @@ input, select, textarea {
 .options {
   display: none;
 }
+
+.storagehide {
+  display: none;
+}
+
+/*.storage {
+  font-size: 100px;
+}
+
+.storage:hover {
+    display: block;
+    color: red;
+}*/
