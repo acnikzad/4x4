@@ -12,11 +12,13 @@
                   <!-- Post -->
                     <article class="box post">
                       <header>
-                        <h2><strong>XTR</strong></h2>
+                        <h2><strong>XTC</strong></h2>
                       </header>
                       <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
                       <h3>View Options</h3>
                       <ul class="option">
+                        <li class="" onmouseover="document.getElementById('base').style.display = 'block';" onmouseleave="document.getElementById('base').style.display = 'none';">Base Options</li>
+                        <li class="" onmouseover="document.getElementById('tongue').style.display = 'block';" onmouseleave="document.getElementById('tongue').style.display = 'none';">Tongue Options</li>
                         <li class="" onmouseover="document.getElementById('storage').style.display = 'block';" onmouseleave="document.getElementById('storage').style.display = 'none';">Storage Options</li>
                         <li class="" onmouseover="document.getElementById('window').style.display = 'block';" onmouseleave="document.getElementById('window').style.display = 'none';">Window Awning Options</li>
                         <li class="" onmouseover="document.getElementById('axle').style.display = 'block';" onmouseleave="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</li>
@@ -42,6 +44,68 @@
                   <section>
                     <ul class="divided">
                       <li>
+<!-- Base -->
+                          <article class="box excerpt storagehide" id="base">
+                            <header>
+                              <span class="date">Base Options</span>
+                            </header>
+                            <table class="table table-sm">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Size</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Standard Features; H.D. steel tube frame, Adjustable Coupler, 120v Shore Power</th>
+                                  <td>4' x 9' x 4'</td>
+                                  <td>$8,795</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Flip jack with caster, 2 Side doors, Tri-fold mattress, Dexter Torflex Axles</th>
+                                  <td>5' x 9' x 4'</td>
+                                  <td>$9,495</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">30” Firestone Destination AT tires, Stainless steel countertop, Front Storage</th>
+                                  <td>5' x 10' x 4'</td>
+                                  <td>$9,995</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
+<!-- Tongue -->
+                          <article class="box excerpt storagehide" id="tongue">
+                            <header>
+                              <span class="date">Tongue Options</span>
+                            </header>
+                            <table class="table table-sm">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Pintle Eye</th>
+                                  <td>$220</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Lock and Roll Multi-Axis Hitch</th>
+                                  <td>$425</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
 <!-- Storage -->
                           <article class="box excerpt storagehide" id="storage">
                             <header>
@@ -58,12 +122,6 @@
                                 <tr>
                                   <th scope="row">A-Frame Tongue Box (2.75 cu ft)</th>
                                   <td>$315</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Large A-Frame tongue box (5.2 cu ft)</th>
-                                  <td>$450</td>
                                 </tr>
                               </tbody>
                               <tbody>
@@ -136,12 +194,6 @@
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Foxwing Awning (XL ONLY)</th>
-                                  <td>$1,050</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
                                   <th scope="row">StarGazer Window</th>
                                   <td>$375</td>
                                 </tr>
@@ -210,38 +262,8 @@
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">33" tire upgrade (3) 285/70/r17</th>
-                                  <td>$600</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">35" tire upgrade (3)</th>
-                                  <td>$750</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">32" tire upgrade (3)</th>
-                                  <td>$200</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
                                   <th scope="row">H.D. Spare Tire Mount (mount only)</th>
                                   <td>$160</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">(2) additional stabilizer jacks in front of trailer</th>
-                                  <td>$100</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Rear receiver recovery hitch upgrade </th>
-                                  <td>$0</td>
                                 </tr>
                               </tbody>
                               <tbody>
@@ -272,14 +294,14 @@
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">CNC Cut Hybrid Cabinets. Cabinets in Galley and Cubbies in Cabin</th>
+                                  <th scope="row">Fresh Water Option (10 gal tank, 12v water pump, SS Sink, faucet)</th>
                                   <td>$650</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Larger propane tank and mount</th>
-                                  <td>$150</td>
+                                  <th scope="row">Water Heater Shower Pkg. (Propane Heater, LP tank, mount, plumbing)</th>
+                                  <td>$1,050</td>
                                 </tr>
                               </tbody>
                               <tbody>
@@ -290,26 +312,8 @@
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Cabinet door over electrical storage, stainless steel faceplate added to cooler slide and cabinet door</th>
-                                  <td>$200</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">CNC Cabinet doors over cabin storage cubbies </th>
-                                  <td>$150</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
                                   <th scope="row">Removable Side Table</th>
                                   <td>$185</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Additional table mount on opposite side of trailer (not applicable with spare tire & mount)</th>
-                                  <td>$40</td>
                                 </tr>
                               </tbody>
                               <tbody>
@@ -338,44 +342,14 @@
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Commander Kitchen with CNC cabinets (Full kitchen options) XTR Only</th>
+                                  <th scope="row">Commander Kitchen with CNC cabinets (Full kitchen options)</th>
                                   <td>$3,175</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Commander Kitchen (Full kitchen options) XTR Only</th>
-                                  <td>$3,675</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Deluxe Slide Out Sink/Double Burner Range Combo (XTR-XL Only)</th>
-                                  <td>$1,650</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Full size rear galley door for (XL Model)</th>
-                                  <td>$400</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Slide Out Kitchen Base (SS Countertop/Storage Under for Cooler)</th>
-                                  <td>$840</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Bottom Aluminum DP skid plate and 2" Insulated floor</th>
-                                  <td>$550</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">"Black Ops Pkg" Coated diamond plate and aluminum trim</th>
-                                  <td>$450</td>
+                                  <th scope="row">Commander Kitchen (All options, no stove)</th>
+                                  <td>$2,725</td>
                                 </tr>
                               </tbody>
                             </table>
@@ -406,18 +380,6 @@
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">6v Power Package (DC Battery, inside, outside,galley lights, outlets)</th>
-                                  <td>$630</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Additional 6V Battery</th>
-                                  <td>$265</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
                                   <th scope="row">50w Solar Power with Battery Tender</th>
                                   <td>$265</td>
                                 </tr>
@@ -426,12 +388,6 @@
                                 <tr>
                                   <th scope="row">100w Solar Power with Battery Tender</th>
                                   <td>$475</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Run wires for inverter</th>
-                                  <td>$75</td>
                                 </tr>
                               </tbody>
                               <tbody>
@@ -492,12 +448,6 @@
                                 <tr>
                                   <th scope="row">Swivel for Television</th>
                                   <td>$210</td>
-                                </tr>
-                              </tbody>
-                              <tbody>
-                                <tr>
-                                  <th scope="row">Deluxe Entertainment Package (w/ custom cabinets only)</th>
-                                  <td>$840</td>
                                 </tr>
                               </tbody>
                             </table>

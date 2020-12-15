@@ -18,6 +18,7 @@
                       <h3>View Options</h3>
                       <ul class="option">
                         <li class="" onmouseover="document.getElementById('base').style.display = 'block';" onmouseleave="document.getElementById('base').style.display = 'none';">Base Options</li>
+                        <li class="" onmouseover="document.getElementById('tongue').style.display = 'block';" onmouseleave="document.getElementById('tongue').style.display = 'none';">Tongue Options</li>
                         <li class="" onmouseover="document.getElementById('storage').style.display = 'block';" onmouseleave="document.getElementById('storage').style.display = 'none';">Storage Options</li>
                         <li class="" onmouseover="document.getElementById('window').style.display = 'block';" onmouseleave="document.getElementById('window').style.display = 'none';">Window Awning Options</li>
                         <li class="" onmouseover="document.getElementById('axle').style.display = 'block';" onmouseleave="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</li>
@@ -52,31 +53,62 @@
                               <thead>
                                 <tr>
                                   <th scope="col">Option</th>
+                                  <th scope="col">Size</th>
                                   <th scope="col">Price</th>
                                 </tr>
                               </thead>
                               <tbody>
                                 <tr>
                                   <th scope="row">Standard Features; H.D. steel tube frame, Adjustable Coupler, 120v Shore Power</th>
+                                  <td>4' x 8' x 4'</td>
                                   <td>$8,795</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
                                   <th scope="row">Flip jack with caster, 2 Side doors, Tri-fold mattress, Dexter Torflex Axles</th>
+                                  <td>5' x 8' x 4'</td>
                                   <td>$9,495</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
                                   <th scope="row">30” Firestone Destination AT tires, Stainless steel countertop, Front Storage</th>
+                                  <td>5' x 9' x 4'</td>
                                   <td>$9,995</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
                                   <th scope="row">Rack, Rear receiver hitch, ¾ “ Birch plywood, .040 Aluminum skin</th>
+                                  <td>5' x 10' x 4'</td>
                                   <td>$10,695</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
+<!-- Tongue -->
+                          <article class="box excerpt storagehide" id="tongue">
+                            <header>
+                              <span class="date">Tongue Options</span>
+                            </header>
+                            <table class="table table-sm">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Pintle Eye</th>
+                                  <td>$220</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Lock and Roll Multi-Axis Hitch</th>
+                                  <td>$425</td>
                                 </tr>
                               </tbody>
                             </table>
@@ -312,7 +344,19 @@
                               <tbody>
                                 <tr>
                                   <th scope="row">CNC Cut Hybrid Cabinets. Cabinets in Galley and Cubbies in Cabin</th>
+                                  <td>$630</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Fresh Water Option (10 gal tank, 12v water pump, SS Sink, faucet)</th>
                                   <td>$650</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Water Heater Shower Pkg. (Propane Heater, LP tank, mount, plumbing)</th>
+                                  <td>$1,050</td>
                                 </tr>
                               </tbody>
                               <tbody>
