@@ -17,6 +17,7 @@
                       <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
                       <h3>View Options</h3>
                       <ul class="option">
+                        <li class="" onmouseover="document.getElementById('base').style.display = 'block';" onmouseleave="document.getElementById('base').style.display = 'none';">Base Options</li>
                         <li class="" onmouseover="document.getElementById('storage').style.display = 'block';" onmouseleave="document.getElementById('storage').style.display = 'none';">Storage Options</li>
                         <li class="" onmouseover="document.getElementById('window').style.display = 'block';" onmouseleave="document.getElementById('window').style.display = 'none';">Window Awning Options</li>
                         <li class="" onmouseover="document.getElementById('axle').style.display = 'block';" onmouseleave="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</li>
@@ -42,6 +43,44 @@
                   <section>
                     <ul class="divided">
                       <li>
+<!-- Base -->
+                          <article class="box excerpt storagehide" id="base">
+                            <header>
+                              <span class="date">Base Options</span>
+                            </header>
+                            <table class="table table-sm">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Option</th>
+                                  <th scope="col">Price</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Standard Features; H.D. steel tube frame, Adjustable Coupler, 120v Shore Power</th>
+                                  <td>$8,795</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Flip jack with caster, 2 Side doors, Tri-fold mattress, Dexter Torflex Axles</th>
+                                  <td>$9,495</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">30” Firestone Destination AT tires, Stainless steel countertop, Front Storage</th>
+                                  <td>$9,995</td>
+                                </tr>
+                              </tbody>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">Rack, Rear receiver hitch, ¾ “ Birch plywood, .040 Aluminum skin</th>
+                                  <td>$10,695</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </article>
 <!-- Storage -->
                           <article class="box excerpt storagehide" id="storage">
                             <header>
