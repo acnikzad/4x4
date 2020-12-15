@@ -16,7 +16,7 @@
                       </header>
                       <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
                       <h3>View Options</h3>
-                      <ul class="">
+                      <ul class="option">
                         <li class="" onmouseover="document.getElementById('storage').style.display = 'block';" onmouseleave="document.getElementById('storage').style.display = 'none';">Storage Options</li>
                         <li class="" onmouseover="document.getElementById('window').style.display = 'block';" onmouseleave="document.getElementById('window').style.display = 'none';">Window Awning Options</li>
                         <li class="" onmouseover="document.getElementById('axle').style.display = 'block';" onmouseleave="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</li>
@@ -509,83 +509,6 @@
             </div>
           </div>
         </section>
-
-      <!-- Footer -->
-        <section id="footer">
-          <div class="container">
-            <header>
-              <h2>Questions or comments? <strong>Get in touch:</strong></h2>
-            </header>
-            <div class="row">
-              <div class="col-6 col-12-medium">
-                <section>
-                  <form method="post" action="#">
-                    <div class="row gtr-50">
-                      <div class="col-6 col-12-small">
-                        <input name="name" placeholder="Name" type="text" />
-                      </div>
-                      <div class="col-6 col-12-small">
-                        <input name="email" placeholder="Email" type="text" />
-                      </div>
-                      <div class="col-12">
-                        <textarea name="message" placeholder="Message"></textarea>
-                      </div>
-                      <div class="col-12">
-                        <a href="#" class="form-button-submit button icon solid fa-envelope">Send Message</a>
-                      </div>
-                    </div>
-                  </form>
-                </section>
-              </div>
-              <div class="col-6 col-12-medium">
-                <section>
-                  <p>Erat lorem ipsum veroeros consequat magna tempus lorem ipsum consequat Phaselamet
-                  mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique. Curabitur
-                  leo nibh, rutrum eu malesuada.</p>
-                  <div class="row">
-                    <div class="col-6 col-12-small">
-                      <ul class="icons">
-                        <li class="icon solid fa-home">
-                          1234 Somewhere Road<br />
-                          Nashville, TN 00000<br />
-                          USA
-                        </li>
-                        <li class="icon solid fa-phone">
-                          (000) 000-0000
-                        </li>
-                        <li class="icon solid fa-envelope">
-                          <a href="#">info@untitled.tld</a>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="col-6 col-12-small">
-                      <ul class="icons">
-                        <li class="icon brands fa-twitter">
-                          <a href="#">@untitled</a>
-                        </li>
-                        <li class="icon brands fa-instagram">
-                          <a href="#">instagram.com/untitled</a>
-                        </li>
-                        <li class="icon brands fa-dribbble">
-                          <a href="#">dribbble.com/untitled</a>
-                        </li>
-                        <li class="icon brands fa-facebook-f">
-                          <a href="#">facebook.com/untitled</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </section>
-              </div>
-            </div>
-          </div>
-          <div id="copyright" class="container">
-            <ul class="links">
-              <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-            </ul>
-          </div>
-        </section>
-
     </div>
   </body>
 </template>
@@ -593,55 +516,4 @@
 
 <script>
 
-function myFunction() {
-  console.log("calling storage...");
-  var x = document.getElementById("storage");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-
 </script>
-
-
-
-
-<!-- <script type="text/javascript">
-  export default {
-    data: function() {
-
-    },
-
-    methods: {
-      myFunction: function() {
-        console.log("calling storage...");
-        var x = document.getElementById("storage");
-        if (x.style.display === "none") {
-          x.style.display = "block";
-        } else {
-          x.style.display = "none";
-        }
-    }
-  }
-
-  //     myFunction: function() {
-  // console.log("calling storage...");
-  // var x = document.getElementById("storage");
-  // if (x.style.display === "none") {
-  //   x.style.display = "block";
-  // } else {
-  //   x.style.display = "none";
-  // },
-
-  //       function myWindow() {
-  // console.log("calling window...");
-  // var x = document.getElementById("window");
-  // if (x.style.display === "none") {
-  //   x.style.display = "block";
-  // } else {
-  //   x.style.display = "none";
-  // }
-};
-</script> -->

@@ -8,7 +8,7 @@
         <p>In partnership with Vintage Trailer Works Inc.</p>
         <nav id="nav">
           <ul>
-            <li><a class="icon solid fa-home" href="index.html"><span>Home</span></a></li>
+            <li><a class="icon solid fa-home" href="/"><span>Home</span></a></li>
             <li>
               <a href="#" class="icon fa-envelope"><span>Contact</span></a>
             </li>

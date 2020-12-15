@@ -2791,13 +2791,19 @@ input, select, textarea {
 
 .storagehide {
   display: none;
+  transition: 1s;
 }
 
 /*.storage {
   font-size: 100px;
+}*/
+
+.option {
+  transition: 1s;
+  list-style: none;
 }
 
-.storage:hover {
-    display: block;
+.option li:hover {
     color: red;
-}*/
+    transition: 1s;
+}
