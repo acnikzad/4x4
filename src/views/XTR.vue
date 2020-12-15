@@ -49,38 +49,34 @@
                             <header>
                               <span class="date">Base Options</span>
                             </header>
+                            <p><b>Standard Features:</b>  H.D. steel tube frame, Adjustable Coupler, 120v Shore Power, flip jack with caster, 2 Side doors, Tri-fold mattress, Dexter Torflex Axles, 30” Firestone Destination AT tires, Stainless steel countertop, Front Storage, Rack, Rear receiver hitch, ¾ “ Birch plywood, .040 Aluminum skin</p>
                             <table class="table table-sm">
                               <thead>
                                 <tr>
-                                  <th scope="col">Option</th>
                                   <th scope="col">Size</th>
                                   <th scope="col">Price</th>
                                 </tr>
                               </thead>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Standard Features; H.D. steel tube frame, Adjustable Coupler, 120v Shore Power</th>
                                   <td>4' x 8' x 4'</td>
                                   <td>$8,795</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Flip jack with caster, 2 Side doors, Tri-fold mattress, Dexter Torflex Axles</th>
                                   <td>5' x 8' x 4'</td>
                                   <td>$9,495</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">30” Firestone Destination AT tires, Stainless steel countertop, Front Storage</th>
                                   <td>5' x 9' x 4'</td>
                                   <td>$9,995</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Rack, Rear receiver hitch, ¾ “ Birch plywood, .040 Aluminum skin</th>
                                   <td>5' x 10' x 4'</td>
                                   <td>$10,695</td>
                                 </tr>

@@ -29,17 +29,6 @@
                 </div>
 <!-- Sidebar -->
                 <div id="sidebar" class="col-4 col-12-medium">
-                  <!-- <div class="dropdown">
-                    <button class="dropbtn">Select Options</button>
-                    <div class="dropdown-content">
-                      <a onclick="myFunction('storage')">Storage Options</a>
-                      <a onclick="myFunction('window')">Window Awning Options</a>
-                      <a onclick="myFunction('axle')">Axle and Tire Options</a>
-                      <a onclick="myFunction('galley')">Galley Options</a>
-                      <a onclick="myFunction('electronics')">Power and Electronics Options</a>
-                    </div>
-                  </div> -->
-
 <!-- Options -->
                   <section>
                     <ul class="divided">
@@ -49,31 +38,28 @@
                             <header>
                               <span class="date">Base Options</span>
                             </header>
+                            <p><b>Standard Features:</b> H.D. steel tube frame, Adjustable Coupler, 120v Shore Power, Flip jack with caster, 1 Side door, 20" Side Window (opposite side of door), Tri-fold mattress, Dexter torflex axles, 205/75-R14" Tires, Aluminum Rims, All DOT Lighting, 2" Tongue  Coupler, Rear receiver hitch, ¾ “ Birch plywood, .040 Aluminum skin</p>
                             <table class="table table-sm">
                               <thead>
                                 <tr>
-                                  <th scope="col">Option</th>
                                   <th scope="col">Size</th>
                                   <th scope="col">Price</th>
                                 </tr>
                               </thead>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Standard Features; H.D. steel tube frame, Adjustable Coupler, 120v Shore Power</th>
                                   <td>4' x 9' x 4'</td>
                                   <td>$8,795</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">Flip jack with caster, 2 Side doors, Tri-fold mattress, Dexter Torflex Axles</th>
                                   <td>5' x 9' x 4'</td>
                                   <td>$9,495</td>
                                 </tr>
                               </tbody>
                               <tbody>
                                 <tr>
-                                  <th scope="row">30” Firestone Destination AT tires, Stainless steel countertop, Front Storage</th>
                                   <td>5' x 10' x 4'</td>
                                   <td>$9,995</td>
                                 </tr>
