@@ -26,6 +26,8 @@
                         <li class="" onmouseover="document.getElementById('electronics').style.display = 'block';" onmouseleave="document.getElementById('electronics').style.display = 'none';">Power and Electronics Options</li>
                       </ul>
                     </article>
+                    <button><a href="mailto:benk.vtw@gmail.com?&subject=XTR%20Inquiry&body=I%20am%20interested%20in%20learning%20more%20about%20the%20XTR!" target="_top">Contact for a quote!</a>
+                    </button>
                 </div>
 <!-- Sidebar -->
                 <div id="sidebar" class="col-4 col-12-medium">
