@@ -21,7 +21,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/XTR-XL2.JPG" alt="" /></a>
+              <a href="/xtr-xl" class="image featured"><img src="images/XTR-XL2.jpg" alt="" /></a>
               <header>
                 <h3>XTR-XL</h3>
               </header>
@@ -33,7 +33,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/Toy hauler XTR.jpg" alt="" /></a>
+              <a href="/xtr-th" class="image featured"><img src="images/Toy hauler XTR.jpg" alt="" /></a>
               <header>
                 <h3>XTR-Toy Hauler</h3>
               </header>
@@ -47,7 +47,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/XTC1.JPG" alt="" /></a>
+              <a href="/xtc" class="image featured"><img src="images/XTC1.jpg" alt="" /></a>
               <header>
                 <h3>XTC</h3>
               </header>
@@ -59,7 +59,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/Silver Command Camp2.jpeg" alt="" /></a>
+              <a href="/commandcamp" class="image featured"><img src="images/Silver Command Camp2.jpeg" alt="" /></a>
               <header>
                 <h3>Command Camp</h3>
               </header>
@@ -71,7 +71,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="images/XSport5.JPG" alt="" /></a>
+              <a href="/xsport" class="image featured"><img src="images/XSport5.JPG" alt="" /></a>
               <header>
                 <h3>XSport</h3>
               </header>

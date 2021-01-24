@@ -5,16 +5,14 @@
         <section id="main">
           <div class="container">
             <div class="row">
-
-              <!-- Content -->
+ <!-- Content -->
                 <div id="content" class="col-8 col-12-medium">
-
-                  <!-- Post -->
+<!-- Post -->
                     <article class="box post">
                       <header>
                         <h2><strong>XTC</strong></h2>
                       </header>
-                      <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
+                      <span class="image featured"><img src="images/XTC1.JPG" alt="" /></span>
                       <h3>View Options</h3>
                       <ul class="option">
                         <li class="" onmouseover="document.getElementById('base').style.display = 'block';" onmouseleave="document.getElementById('base').style.display = 'none';">Base Options</li>
