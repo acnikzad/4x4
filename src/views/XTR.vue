@@ -8,26 +8,19 @@
 
               <!-- Content -->
                 <div id="content" class="col-8 col-12-medium">
-
                   <!-- Post -->
-                    <article class="box post">
-                      <header>
-                        <h2><strong>XTR</strong></h2>
-                      </header>
-                      <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
-                      <h3>View Options</h3>
-                      <ul class="option">
-                        <li class="" onmouseover="document.getElementById('base').style.display = 'block';" onmouseleave="document.getElementById('base').style.display = 'none';">Base Options</li>
-                        <li class="" onmouseover="document.getElementById('tongue').style.display = 'block';" onmouseleave="document.getElementById('tongue').style.display = 'none';">Tongue Options</li>
-                        <li class="" onmouseover="document.getElementById('storage').style.display = 'block';" onmouseleave="document.getElementById('storage').style.display = 'none';">Storage Options</li>
-                        <li class="" onmouseover="document.getElementById('window').style.display = 'block';" onmouseleave="document.getElementById('window').style.display = 'none';">Window Awning Options</li>
-                        <li class="" onmouseover="document.getElementById('axle').style.display = 'block';" onmouseleave="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</li>
-                        <li class="" onmouseover="document.getElementById('galley').style.display = 'block';" onmouseleave="document.getElementById('galley').style.display = 'none';">Galley Options</li>
-                        <li class="" onmouseover="document.getElementById('electronics').style.display = 'block';" onmouseleave="document.getElementById('electronics').style.display = 'none';">Power and Electronics Options</li>
-                      </ul>
-                    </article>
-                    <button><a href="mailto:benk.vtw@gmail.com?&subject=XTR%20Inquiry&body=I%20am%20interested%20in%20learning%20more%20about%20the%20XTR!" target="_top">Contact for a quote!</a>
-                    </button>
+                  <article class="box post">
+                    <header>
+                      <h2><strong>XTR</strong></h2>
+                    </header>
+                    <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
+                    <p>Our XTR Off Road Teardrop Trailer is our flagship model for a reason. The trail proven, military style design, is ready to accompany you in many off-grid adventures. Built on our HD frame with 3500 lb independent axles, our XTR is ready take on the most extreme terrain.</p>
+                  </article>
+                </div>
+                <div class="divided col-4">
+                  <br>
+                  <br>
+                  <p>Our XTR Off Road Teardrop Trailer is our flagship model for a reason. The trail proven, military style design, is ready to accompany you in many off-grid adventures. Built on our HD frame with 3500 lb independent axles, our XTR is ready take on the most extreme terrain.</p>
                 </div>
 <!-- Sidebar -->
                 <div id="sidebar" class="col-4 col-12-medium">
@@ -70,6 +63,9 @@
                 <p onmouseover="document.getElementById('electronics').style.display = 'block';" onmouseleave="document.getElementById('electronics').style.display = 'none';">Power Options</p>
               </div>
             </row>
+            <div style="text-align: center">
+              <button><a href="mailto:benk.vtw@gmail.com?&subject=XTR%20Inquiry&body=I%20am%20interested%20in%20learning%20more%20about%20the%20XTR!" target="_top">Contact for a quote!</a></button>
+            </div>
           </article>
 <!-- Options -->
                   <section>
@@ -78,7 +74,7 @@
 <!-- Base -->
                         <article class="box excerpt storagehide" id="base">
                           <header>
-                            <span class="date">Base Options</span>
+                            <h2 class="">Base Options</h2>
                           </header>
                           <p><b>Standard Features:</b>  H.D. steel tube frame, Adjustable Coupler, 120v Shore Power, flip jack with caster, 2 Side doors, Tri-fold mattress, Dexter Torflex Axles, 30” Firestone Destination AT tires, Stainless steel countertop, Front Storage, Rack, Rear receiver hitch, ¾ “ Birch plywood, .040 Aluminum skin</p>
                           <table class="table table-sm">
@@ -117,7 +113,7 @@
 <!-- Tongue -->
                         <article class="box excerpt storagehide" id="tongue">
                           <header>
-                            <span class="date">Tongue Options</span>
+                            <h2 class="">Tongue Options</h2>
                           </header>
                           <table class="table table-sm">
                             <thead>
@@ -143,7 +139,7 @@
 <!-- Storage -->
                         <article class="box excerpt storagehide" id="storage">
                           <header>
-                            <span class="date">Storage Options</span>
+                            <h2 class="">Storage Options</h2>
                           </header>
                           <table class="table table-sm">
                             <thead>
@@ -211,7 +207,7 @@
 <!-- Windows -->
                         <article class="box excerpt options" id="window">
                           <header>
-                            <span class="date">Window Awning Options</span>
+                            <h2 class="">Window Awning Options</h2>
                           </header>
                           <table class="table">
                             <thead>
@@ -273,7 +269,7 @@
 <!-- Axle and Tires -->
                         <article class="box excerpt options" id="axle">
                           <header>
-                            <span class="date">Axle & Tire Options</span>
+                            <h2 class="">Axle & Tire Options</h2>
                           </header>
                           <table class="table">
                             <thead>
@@ -353,7 +349,7 @@
 <!-- Galley Options -->
                         <article class="box excerpt options" id="galley">
                           <header>
-                            <span class="date">Galley Options</span>
+                            <h2 class="">Galley Options</h2>
                           </header>
                           <table class="table">
                             <thead>
@@ -493,7 +489,7 @@
 <!-- Electronics Options -->
                         <article class="box excerpt options" id="electronics">
                           <header>
-                            <span class="date">Power & Electronics Options</span>
+                            <h2 class="">Power & Electronics Options</h2>
                           </header>
                           <table class="table">
                             <thead>
