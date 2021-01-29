@@ -13,9 +13,7 @@
               <header>
                 <h3>XTR</h3>
               </header>
-              <p>This is <strong>Strongly Typed</strong>, a free, fully responsive site template
-              by <a href="http://html5up.net">HTML5 UP</a>. Free for personal and commercial use under the
-              <a href="http://html5up.net/license">CCA 3.0 license</a>.</p>
+              <p>Our XTR Off Road Teardrop Trailer is our flagship model for a reason. The trail proven, military style design, is ready to accompany you in many off-grid adventures. Built on our HD frame with 3500 lb independent axles, our XTR is ready take on the most extreme terrain.</p>
             </section>
           </div>
           <div class="col-4 col-6-medium col-12-small">
@@ -25,9 +23,7 @@
               <header>
                 <h3>XTR-XL</h3>
               </header>
-              <p><a href="http://html5up.net">HTML5 UP</a> is a side project of <a href="http://twitter.com/ajlkn">AJ’s</a> (= me).
-              I started it as a way to both test my responsive tools and sharpen up my coding
-              and design skills a bit.</p>
+              <p>Our XTR XL is perfect for families who enjoy camping off the beaten path, or for individuals who would like a little extra room. Built on our 5x10’ HD off road frame, the XTR XL features one extra foot of trailer height, and has the option to add a double bunk so you can sleep the whole family.</p>
             </section>
           </div>
           <div class="col-4 col-6-medium col-12-small">
@@ -37,8 +33,7 @@
               <header>
                 <h3>XTR-Toy Hauler</h3>
               </header>
-              <p><strong>Responsive Tools</strong> is a simple set of tools for building responsive
-              sites and apps. All of my templates at <a href="http://html5up.net">HTML5 UP</a> are built using these tools.</p>
+              <p>Our XTR Toy Hauler is our newest model. Available with all of the features of our traditional XTR, you can now take your trailer and a pair of dirtbikes or a quad deep into the backcountry. This model is ideal for hunters, fishermen, and other motorsport enthusiasts.</p>
             </section>
           </div>
         </div>
@@ -51,9 +46,7 @@
               <header>
                 <h3>XTC</h3>
               </header>
-              <p>This is <strong>Strongly Typed</strong>, a free, fully responsive site template
-              by <a href="http://html5up.net">HTML5 UP</a>. Free for personal and commercial use under the
-              <a href="http://html5up.net/license">CCA 3.0 license</a>.</p>
+              <p>Our XTC Off Road Teardrop is built on our HD frame, and designed to look more as traditional teardrop. Don’t let the looks deceive you, this teardrop is one off road capable rig. With all the options to build this out how you would like, our XTC is ready for some off road camping fun.</p>
             </section>
           </div>
           <div class="col-4 col-6-medium col-12-small">
@@ -63,9 +56,7 @@
               <header>
                 <h3>Command Camp</h3>
               </header>
-              <p><a href="http://html5up.net">HTML5 UP</a> is a side project of <a href="http://twitter.com/ajlkn">AJ’s</a> (= me).
-              I started it as a way to both test my responsive tools and sharpen up my coding
-              and design skills a bit.</p>
+              <p>Our Command Camp is built on our 5x8’ HD frame and is designed for more of the minimalist style of camper. With the increased departure angle in the rear, and the compact shape, this rig is ready to crawl up and down some rugged terrain. </p>
             </section>
           </div>
           <div class="col-4 col-6-medium col-12-small">
@@ -75,8 +66,7 @@
               <header>
                 <h3>XSport</h3>
               </header>
-              <p><strong>Responsive Tools</strong> is a simple set of tools for building responsive
-              sites and apps. All of my templates at <a href="http://html5up.net">HTML5 UP</a> are built using these tools.</p>
+              <p>Our XSport is our most popular on road teardrop style trailer. Whether you just started camping and this is your first trailer, or you’re an experience enthusiast, the XSport is sure to impress. Our XSport teardrop trailer is ideal for beginner campers, or for individuals who don’t need an off road trailer. With many options available, you can fully customize your trailer exactly how want. </p>
             </section>
           </div>
           <div class="col-12">
