@@ -42,30 +42,32 @@
             </div>
             <row class="aln-center option">
               <div class="col span-1-of-7">
-                <p onclick="document.getElementById('base').style.display = 'block';" ondblclick ="document.getElementById('base').style.display = 'none';">Base Options</p>
+                <p style="cursor: pointer;" onclick="document.getElementById('base').style.display = 'block';" ondblclick ="document.getElementById('base').style.display = 'none';">Base Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onclick="document.getElementById('tongue').style.display = 'block';" ondblclick ="document.getElementById('tongue').style.display = 'none';">Tongue Options</p>
+                <p style="cursor: pointer;" onclick="document.getElementById('tongue').style.display = 'block';" ondblclick ="document.getElementById('tongue').style.display = 'none';">Tongue Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onclick="document.getElementById('storage').style.display = 'block';" ondblclick="document.getElementById('storage').style.display = 'none';">Storage Options</p>
+                <p style="cursor: pointer;" onclick="document.getElementById('storage').style.display = 'block';" ondblclick="document.getElementById('storage').style.display = 'none';">Storage Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onclick="document.getElementById('window').style.display = 'block';" ondblclick="document.getElementById('window').style.display = 'none';">Window Options</p>
+                <p style="cursor: pointer;" onclick="document.getElementById('window').style.display = 'block';" ondblclick="document.getElementById('window').style.display = 'none';">Window Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onclick="document.getElementById('axle').style.display = 'block';" ondblclick="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</p>
+                <p style="cursor: pointer;" onclick="document.getElementById('axle').style.display = 'block';" ondblclick="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onclick="document.getElementById('galley').style.display = 'block';" ondblclick="document.getElementById('galley').style.display = 'none';">Galley Options</p>
+                <p style="cursor: pointer;" onclick="document.getElementById('galley').style.display = 'block';" ondblclick="document.getElementById('galley').style.display = 'none';">Galley Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onclick="document.getElementById('electronics').style.display = 'block';" ondblclick="document.getElementById('electronics').style.display = 'none';">Power Options</p>
+                <p style="cursor: pointer;" onclick="document.getElementById('electronics').style.display = 'block';" ondblclick="document.getElementById('electronics').style.display = 'none';">Power Options</p>
               </div>
             </row>
             <div style="text-align: center">
-              <button><a href="mailto:benk.vtw@gmail.com?&subject=XTR%20Inquiry&body=I%20am%20interested%20in%20learning%20more%20about%20the%20XTR!" target="_top">Contact for a quote!</a></button>
+              <button class="button"><a href="mailto:benk.vtw@gmail.com?&subject=XTR%20Inquiry&body=I%20am%20interested%20in%20learning%20more%20about%20the%20XTR!" target="_top">Contact for a quote!</a></button>
             </div>
+            <br>
+            <br>
           </article>
 <!-- Options -->
                   <section>

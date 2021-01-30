@@ -4,7 +4,7 @@
     <section id="header">
       <div class="container">
 <!-- Logo -->
-        <h1 id="logo"><a href="index.html">4x4 Teardrop Trailers</a></h1>
+        <img src="images/4x4 Teardrops Logo 03.png" alt="" class="logo" />
         <p>In partnership with Vintage Trailer Works Inc.</p>
         <nav id="nav">
           <ul>
