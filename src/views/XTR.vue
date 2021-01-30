@@ -42,25 +42,25 @@
             </div>
             <row class="aln-center option">
               <div class="col span-1-of-7">
-                <p onmouseover="document.getElementById('base').style.display = 'block';" onmouseleave="document.getElementById('base').style.display = 'none';">Base Options</p>
+                <p onclick="document.getElementById('base').style.display = 'block';" ondblclick ="document.getElementById('base').style.display = 'none';">Base Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onmouseover="document.getElementById('tongue').style.display = 'block';" onmouseleave="document.getElementById('tongue').style.display = 'none';">Tongue Options</p>
+                <p onclick="document.getElementById('tongue').style.display = 'block';" ondblclick ="document.getElementById('tongue').style.display = 'none';">Tongue Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onmouseover="document.getElementById('storage').style.display = 'block';" onmouseleave="document.getElementById('storage').style.display = 'none';">Storage Options</p>
+                <p onclick="document.getElementById('storage').style.display = 'block';" ondblclick="document.getElementById('storage').style.display = 'none';">Storage Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onmouseover="document.getElementById('window').style.display = 'block';" onmouseleave="document.getElementById('window').style.display = 'none';">Window Options</p>
+                <p onclick="document.getElementById('window').style.display = 'block';" ondblclick="document.getElementById('window').style.display = 'none';">Window Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onmouseover="document.getElementById('axle').style.display = 'block';" onmouseleave="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</p>
+                <p onclick="document.getElementById('axle').style.display = 'block';" ondblclick="document.getElementById('axle').style.display = 'none';">Axle and Tire Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onmouseover="document.getElementById('galley').style.display = 'block';" onmouseleave="document.getElementById('galley').style.display = 'none';">Galley Options</p>
+                <p onclick="document.getElementById('galley').style.display = 'block';" ondblclick="document.getElementById('galley').style.display = 'none';">Galley Options</p>
               </div>
               <div class="col span-1-of-7">
-                <p onmouseover="document.getElementById('electronics').style.display = 'block';" onmouseleave="document.getElementById('electronics').style.display = 'none';">Power Options</p>
+                <p onclick="document.getElementById('electronics').style.display = 'block';" ondblclick="document.getElementById('electronics').style.display = 'none';">Power Options</p>
               </div>
             </row>
             <div style="text-align: center">
@@ -86,25 +86,25 @@
                             </thead>
                             <tbody>
                               <tr>
-                                <td>4' x 8' x 4'</td>
+                                <th scope="row">4' x 8' x 4'</th>
                                 <td>$8,795</td>
                               </tr>
                             </tbody>
                             <tbody>
                               <tr>
-                                <td>5' x 8' x 4'</td>
+                                <th scope="row">5' x 8' x 4'</th>
                                 <td>$9,495</td>
                               </tr>
                             </tbody>
                             <tbody>
                               <tr>
-                                <td>5' x 9' x 4'</td>
+                                <th scope="row">5' x 9' x 4'</th>
                                 <td>$9,995</td>
                               </tr>
                             </tbody>
                             <tbody>
                               <tr>
-                                <td>5' x 10' x 4'</td>
+                                <th scope="row">5' x 10' x 4'</th>
                                 <td>$10,695</td>
                               </tr>
                             </tbody>
