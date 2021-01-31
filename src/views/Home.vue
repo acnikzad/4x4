@@ -52,7 +52,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="/commandcamp" class="image featured"><img src="images/Silver Command Camp2.jpeg" alt="" /></a>
+              <a href="/commandcamp" class="image featured"><img src="images/FullSizeR(6) (1).jpg" alt="" /></a>
               <header>
                 <h3>Command Camp</h3>
               </header>
