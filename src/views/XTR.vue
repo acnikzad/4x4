@@ -71,8 +71,8 @@
                           <table class="table table-sm">
                             <thead>
                               <tr>
-                                <th scope="col">Size</th>
-                                <th scope="col">Price</th>
+                                <th scope="col" class="span-3-of-4">Size</th>
+                                <th scope="col" class="span-1-of-4">Price</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -100,6 +100,7 @@
                               </tr>
                             </tbody>
                           </table>
+                          <br>
                         </article>
 <!-- Tongue -->
                         <article class="box excerpt storagehide" id="tongue">
@@ -109,8 +110,8 @@
                           <table class="table table-sm">
                             <thead>
                               <tr>
-                                <th scope="col">Option</th>
-                                <th scope="col">Price</th>
+                                <th scope="col" class="span-3-of-4">Option</th>
+                                <th scope="col" class="span-1-of-4">Price</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -126,6 +127,7 @@
                               </tr>
                             </tbody>
                           </table>
+                          <br>
                         </article>
 <!-- Storage -->
                         <article class="box excerpt storagehide" id="storage">
@@ -135,8 +137,8 @@
                           <table class="table table-sm">
                             <thead>
                               <tr>
-                                <th scope="col">Option</th>
-                                <th scope="col">Price</th>
+                                <th scope="col" class="span-3-of-4">Option</th>
+                                <th scope="col" class="span-1-of-4">Price</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -194,6 +196,7 @@
                               </tr>
                             </tbody>
                           </table>
+                          <br>
                         </article>
 <!-- Windows -->
                         <article class="box excerpt options" id="window">
@@ -203,8 +206,8 @@
                           <table class="table">
                             <thead>
                               <tr>
-                                <th scope="col">Option</th>
-                                <th scope="col">Price</th>
+                                <th scope="col" class="span-3-of-4">Option</th>
+                                <th scope="col" class="span-1-of-4">Price</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -256,6 +259,7 @@
                               </tr>
                             </tbody>
                           </table>
+                          <br>
                         </article>
 <!-- Axle and Tires -->
                         <article class="box excerpt options" id="axle">
@@ -265,8 +269,8 @@
                           <table class="table">
                             <thead>
                               <tr>
-                                <th scope="col">Option</th>
-                                <th scope="col">Price</th>
+                                <th scope="col" class="span-3-of-4">Option</th>
+                                <th scope="col" class="span-1-of-4">Price</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -336,6 +340,7 @@
                               </tr>
                             </tbody>
                           </table>
+                          <br>
                         </article>
 <!-- Galley Options -->
                         <article class="box excerpt options" id="galley">
@@ -345,8 +350,8 @@
                           <table class="table">
                             <thead>
                               <tr>
-                                <th scope="col">Option</th>
-                                <th scope="col">Price</th>
+                                <th scope="col" class="span-3-of-4">Option</th>
+                                <th scope="col" class="span-1-of-4">Price</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -476,6 +481,7 @@
                               </tr>
                             </tbody>
                           </table>
+                          <br>
                         </article>
 <!-- Electronics Options -->
                         <article class="box excerpt options" id="electronics">
@@ -485,8 +491,8 @@
                           <table class="table">
                             <thead>
                               <tr>
-                                <th scope="col">Option</th>
-                                <th scope="col">Price</th>
+                                <th scope="col" class="span-3-of-4">Option</th>
+                                <th scope="col" class="span-1-of-4">Price</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -598,6 +604,7 @@
                               </tr>
                             </tbody>
                           </table>
+                          <br>
                         </article>
                       </li>
                     </ul>

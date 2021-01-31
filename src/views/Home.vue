@@ -19,7 +19,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="/xtr-xl" class="image featured"><img src="images/XTR-XL2.jpg" alt="" /></a>
+              <a href="/xtr-xl" class="image featured"><img src="images/XTR XL1.jpg" alt="" /></a>
               <header>
                 <h3>XTR-XL</h3>
               </header>
@@ -42,7 +42,7 @@
           <div class="col-4 col-6-medium col-12-small">
 <!-- Feature -->
             <section>
-              <a href="/xtc" class="image featured"><img src="images/XTC1.jpg" alt="" /></a>
+              <a href="/xtc" class="image featured"><img src="images/XTC_VintageTrailerWorks00007.jpg" alt="" /></a>
               <header>
                 <h3>XTC</h3>
               </header>
@@ -119,13 +119,5 @@
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
-export default {
-  name: 'Home',
-  components: {
-    HelloWorld
-  }
-}
 </script>
