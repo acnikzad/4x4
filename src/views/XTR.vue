@@ -14,26 +14,15 @@
                       <h2><strong>XTR</strong></h2>
                     </header>
                     <span class="image featured"><img src="images/xtr1.jpg" alt="" /></span>
-                    <p>Our XTR Off Road Teardrop Trailer is our flagship model for a reason. The trail proven, military style design, is ready to accompany you in many off-grid adventures. Built on our HD frame with 3500 lb independent axles, our XTR is ready take on the most extreme terrain.</p>
                   </article>
-                </div>
-                <div class="divided col-4">
-                  <br>
-                  <br>
-                  <p>Our XTR Off Road Teardrop Trailer is our flagship model for a reason. The trail proven, military style design, is ready to accompany you in many off-grid adventures. Built on our HD frame with 3500 lb independent axles, our XTR is ready take on the most extreme terrain.</p>
                 </div>
 <!-- Sidebar -->
                 <div id="sidebar" class="col-4 col-12-medium">
-                  <!-- <div class="dropdown">
-                    <button class="dropbtn">Select Options</button>
-                    <div class="dropdown-content">
-                      <a onclick="myFunction('storage')">Storage Options</a>
-                      <a onclick="myFunction('window')">Window Awning Options</a>
-                      <a onclick="myFunction('axle')">Axle and Tire Options</a>
-                      <a onclick="myFunction('galley')">Galley Options</a>
-                      <a onclick="myFunction('electronics')">Power and Electronics Options</a>
-                    </div>
-                  </div> -->
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <p>Our XTR Off Road Teardrop Trailer is our flagship model for a reason. The trail proven, military style design, is ready to accompany you in many off-grid adventures. Built on our HD frame with 3500 lb independent axles, our XTR is ready take on the most extreme terrain.</p>
                 </div>
             </div>
           <article class="box post">
