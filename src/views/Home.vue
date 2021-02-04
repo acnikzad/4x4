@@ -85,29 +85,29 @@
     </section>
     <section id="points">
       <div class="row aln-center">
-        <div class="col span-1-of-4">
+        <div class="col span-1-of-4 points">
           <div class="row">
             <img src="images/muscle.png" alt="" class="icon-big solid fa" />
           </div>
-          <div class="row points">
+          <div class="row">
             <h2>Built tough</h2>
             <p>All of our trailers come with a 3 year structural warranty. We have put these trailers to the test, and so should you!</p>
           </div>
         </div>
-        <div class="col span-1-of-4">
+        <div class="col span-1-of-4 points">
           <div class="row">
             <img src="images/clock.png" alt="" class="icon-big solid fa" />
           </div>
-          <div class="row points">
+          <div class="row">
             <h2>Quick build times</h2>
             <p>Get your fully custom teardrop trailer built in 8-16 weeks!</p>
           </div>
         </div>
-        <div class="col span-1-of-4">
+        <div class="col span-1-of-4 points">
           <div class="row">
             <img src="images/best-price.png" alt="" class="icon-big solid fa" />
           </div>
-          <div class="row points">
+          <div class="row">
             <h2>Affordable</h2>
             <p>Get out Exploring without breaking the bank! Our off road models start out at $8355!</p>
           </div>
