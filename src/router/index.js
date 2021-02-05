@@ -46,8 +46,8 @@ const routes = [
   },
   {
     path: '/commandcamp',
-    name: 'XTC',
-    component: XTC
+    name: 'CommandCamp',
+    component: CommandCamp
   },
   {
     path: '/xsport',

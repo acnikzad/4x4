@@ -1526,6 +1526,7 @@ input, select, textarea {
 				width: auto;
 			}
 
+
 /* List */
 
 	ul {
@@ -2581,6 +2582,18 @@ input, select, textarea {
 				max-width: 35%;
 			}
 
+      .thumbnail.featured {
+        margin: 0 0 0.5em 0;
+      }
+
+      .thumbnail.left {
+        max-width: 35%;
+      }
+
+      .thumbnail.right {
+        max-width: 35%;
+      }
+
 		/* Button */
 
 			input[type="button"],
@@ -2713,7 +2726,7 @@ input, select, textarea {
         padding: 5%;
         border: solid 2px;
         border-color: #f9f9f9;
-        /*margin: 5%;*/
+        margin: 5%;
         /*padding-right: 20%;*/
         /*padding: 1%;*/
       }
@@ -2721,6 +2734,7 @@ input, select, textarea {
       .points p {
         font-size: 90%;
         line-height: 145%;
+        /*margin: 5%;*/
       }
 
       .points img {
@@ -2799,12 +2813,13 @@ input, select, textarea {
   font-size: 100px;
 }*/
 
-.option {
+.tab {
   transition: 1s;
-  list-style: none;
+  font-style: all;
+  color: blue;
 }
 
-.option li:hover {
+.tab:hover {
     color: red;
     transition: 1s;
 }

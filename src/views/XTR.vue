@@ -23,6 +23,7 @@
                   <br>
                   <br>
                   <p>Our XTR Off Road Teardrop Trailer is our flagship model for a reason. The trail proven, military style design, is ready to accompany you in many off-grid adventures. Built on our HD frame with 3500 lb independent axles, our XTR is ready take on the most extreme terrain.</p>
+                  <br>
                 </div>
             </div>
           <article class="box post">

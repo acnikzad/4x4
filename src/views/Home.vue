@@ -109,6 +109,7 @@
           </div>
           <div class="row">
             <h2>Affordable</h2>
+            <br>
             <p>Get out Exploring without breaking the bank! Our off road models start out at $8355!</p>
           </div>
         </div>
