@@ -1500,7 +1500,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 130%;
 		}
 
 		.image.featured {
@@ -1525,6 +1525,52 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+
+  .thumbnail {
+    -moz-transition: opacity 0.25s ease-in-out;
+    -webkit-transition: opacity 0.25s ease-in-out;
+    -ms-transition: opacity 0.25s ease-in-out;
+    transition: opacity 0.25s ease-in-out;
+    display: inline-block;
+    border: solid 6px #ebebeb !important;
+  }
+
+    .thumbnail:hover {
+      opacity: 0.9;
+    }
+
+    .thumbnail img {
+      display: block;
+      width: 100%;
+    }
+
+    .thumbnail.fit {
+      display: block;
+      width: 100%;
+    }
+
+    .thumbnail.featured {
+      display: block;
+      width: 100%;
+      margin: 0 0 3.5em 0;
+    }
+
+    .thumbnail.left {
+      float: left;
+      margin: 0 1.5em 1.5em 0;
+      position: relative;
+      top: 0.5em;
+    }
+
+    .thumbnail.centered {
+      display: block;
+      margin: 0 0 2em 0;
+    }
+
+      .thumbnail.centered img {
+        margin: 0 auto;
+        width: auto;
+      }
 
 
 /* List */
@@ -2278,6 +2324,14 @@ input, select, textarea {
 				max-width: 50%;
 			}
 
+      .thumbnail.left {
+        max-width: 50%;
+      }
+
+      .thumbnail.right {
+        max-width: 50%;
+      }
+
 		/* Header */
 
 			#header > .container {
@@ -2583,7 +2637,7 @@ input, select, textarea {
 			}
 
       .thumbnail.featured {
-        margin: 0 0 0.5em 0;
+        margin: 0 0 1.5em 0;
       }
 
       .thumbnail.left {
